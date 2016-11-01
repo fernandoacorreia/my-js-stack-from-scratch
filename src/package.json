@@ -1,0 +1,15 @@
+{
+  "name": "my-js-stack-from-scratch",
+  "version": "1.0.0",
+  "description": "Sample project created following the tutorial at https://github.com/verekia/js-stack-from-scratch",
+  "main": "index.js",
+  "repository": {
+    "url": "git@github.com:fernandoacorreia/my-js-stack-from-scratch.git",
+    "type": "git"
+  },
+  "author": "Fernando Correia",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ."
+  }
+}
