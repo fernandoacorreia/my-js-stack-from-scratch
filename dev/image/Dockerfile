@@ -9,7 +9,7 @@ RUN if [ -z "$USER_ID_ON_HOST" ]; then echo 'USER_ID_ON_HOST must be supplied'; 
 # Install pre-requisites
 RUN \
   apt-get update && \
-  apt-get install -y apt-utils curl git sudo tmux vim wget
+  apt-get install -y apt-utils build-essential curl git sudo tmux vim wget
 
 # Create user
 RUN \
