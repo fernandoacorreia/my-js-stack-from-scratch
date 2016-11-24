@@ -2978,6 +2978,12 @@ redux:
     loose-envify "^1.1.0"
     symbol-observable "^1.0.2"
 
+redux-immutable@^3.0.8:
+  version "3.0.8"
+  resolved "https://registry.yarnpkg.com/redux-immutable/-/redux-immutable-3.0.8.tgz#df5a5d601c88227ba38f474cf82f7d00e56f8c14"
+  dependencies:
+    immutable "^3.7.6"
+
 regenerate@^1.2.1:
   version "1.3.1"
   resolved "https://registry.yarnpkg.com/regenerate/-/regenerate-1.3.1.tgz#0300203a5d2fdcf89116dce84275d011f5903f33"
